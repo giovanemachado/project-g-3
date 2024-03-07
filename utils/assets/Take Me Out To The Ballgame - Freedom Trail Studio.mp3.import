@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Take Me Out To The Ballgame - Freedom Trail Studio.mp3-3c5073a078c54caf33e945aa3fc71f43.mp3str"
+
+[deps]
+
+source_file="res://utils/assets/Take Me Out To The Ballgame - Freedom Trail Studio.mp3"
+dest_files=[ "res://.import/Take Me Out To The Ballgame - Freedom Trail Studio.mp3-3c5073a078c54caf33e945aa3fc71f43.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

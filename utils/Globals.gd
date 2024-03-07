@@ -1,5 +1,7 @@
 extends Node
 
+# For signals and constants
+
 # To declare:
 signal game_over
 

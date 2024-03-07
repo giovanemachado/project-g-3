@@ -8,6 +8,28 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "Resource",
+"class": "GameData",
+"language": "GDScript",
+"path": "res://utils/GameData.gd"
+}, {
+"base": "Node",
+"class": "State",
+"language": "GDScript",
+"path": "res://utils/State.gd"
+}, {
+"base": "Node",
+"class": "StateManager",
+"language": "GDScript",
+"path": "res://utils/StateManager.gd"
+} ]
+_global_script_class_icons={
+"GameData": "",
+"State": "",
+"StateManager": ""
+}
+
 [application]
 
 config/name="project-g-godot-3"
@@ -17,7 +39,9 @@ config/icon="res://icon.png"
 [autoload]
 
 Globals="*res://utils/Globals.gd"
-SceneLoader="*res://utils/SceneLoader.gd"
+AudioManager="*res://utils/AudioManager.tscn"
+DataManager="*res://utils/DataManager.tscn"
+SceneManager="*res://utils/SceneManager.tscn"
 
 [gui]
 

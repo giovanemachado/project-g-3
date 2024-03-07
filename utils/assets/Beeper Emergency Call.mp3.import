@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Beeper Emergency Call.mp3-a02e4aeeae726283dd02ba0e09cb8e76.mp3str"
+
+[deps]
+
+source_file="res://utils/assets/Beeper Emergency Call.mp3"
+dest_files=[ "res://.import/Beeper Emergency Call.mp3-a02e4aeeae726283dd02ba0e09cb8e76.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
